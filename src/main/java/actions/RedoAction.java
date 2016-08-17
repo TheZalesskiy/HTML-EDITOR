@@ -1,9 +1,6 @@
 package actions;
 
-
-
 import view.View;
-
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 
