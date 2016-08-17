@@ -1,7 +1,5 @@
 package menu;
 
-
-
 import actions.*;
 import listeners.TextEditMenuListener;
 import view.View;
