@@ -1,9 +1,6 @@
 package listeners;
 
-
-
 import view.View;
-
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 
