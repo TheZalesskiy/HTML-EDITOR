@@ -1,9 +1,6 @@
 package listeners;
 
-
-
 import view.View;
-
 import javax.swing.*;
 import javax.swing.event.MenuEvent;
 import javax.swing.event.MenuListener;
